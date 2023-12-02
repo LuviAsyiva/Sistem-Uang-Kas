@@ -1,9 +1,9 @@
 # sistem informasi akuntansi
 aplikasi pendataan uang kas dibuat dengan Framework Laravel. Dengan sistem pembayaran kas sekali selama seminggu. Aplikasi ini cocok untuk digunakan untuk di sekolah atau masing masing kela
 
-# Prasarat
+# Prasyarat
 berikut beberapa hal yang perlu diinstall:
-- composer
+- composer (https://getcomposer.org)
 - PHP 8.2.12
 - MySQL ^12
 - XAMPP
