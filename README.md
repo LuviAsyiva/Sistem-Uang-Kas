@@ -6,7 +6,7 @@ berikut beberapa hal yang perlu diinstall:
 - composer (https://getcomposer.org)
 - PHP 8.2.12
 - MySQL ^12
-- XAMPP
+- XAMPP (https://www.apachefriends.org)
 
 # Flowchart
 ![flowchart sistem uang kas](https://github.com/luviasyiva/sistem-uang-kas/assets/152132256/f9150f83-6a45-4efe-bb75-f0f22ffff3ed)
