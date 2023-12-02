@@ -31,4 +31,10 @@ Daftar Kelas
 Filter kas
 ![daftar filter kas](https://github.com/luviasyiva/Sistem-Uang-Kas/assets/152132256/b724b659-96ad-4911-85d4-07f6cc0900c2)
 
+Daftar Administrator
+![Screenshot (279)](https://github.com/luviasyiva/Sistem-Uang-Kas/assets/152132256/ff50921c-1d5b-4eec-a8bd-8bcc36598c3f)
 
+Logout 
+![Screenshot (280)](https://github.com/luviasyiva/Sistem-Uang-Kas/assets/152132256/deb75714-54d3-4bb0-ba75-3f9dc6860204)
+
+# langkah-langkah
