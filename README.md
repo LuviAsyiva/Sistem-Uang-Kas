@@ -1,4 +1,4 @@
-# Sistem Informasi Akuntansi Uang Kas
+# Sistem Informasi Akuntansi-Uang Kas
 aplikasi pendataan uang kas dibuat dengan Framework Laravel. Dengan sistem pembayaran kas sekali selama seminggu. Aplikasi ini cocok untuk digunakan untuk di sekolah atau masing-masing kelas.
 
 # Prasyarat
