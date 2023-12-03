@@ -11,11 +11,9 @@ berikut beberapa hal yang perlu diinstall:
 # Langkah-langkah
 - clone repository
 
-  HTTPS
+  HTTPS https://github.com/luviasyiva/Sistem-Uang-Kas.git
 
-  https://github.com/luviasyiva/Sistem-Uang-Kas.git
-
-  SSH
+  SSH 
   
 
 # Flowchart
