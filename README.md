@@ -3,13 +3,20 @@ aplikasi pendataan uang kas dibuat dengan Framework Laravel. Dengan sistem pemba
 
 # Prasyarat
 berikut beberapa hal yang perlu diinstall:
-- composer (https://getcomposer.org)
+- composer
+  ```
+  https://getcomposer.org
+  ```
 - PHP 8.2.12
 - MySQL ^12
-- XAMPP (https://www.apachefriends.org)
+- XAMPP
+  ```
+  https://www.apachefriends.org
+  ```
 
 # Langkah-langkah
-- clone repositoryH
+- clone repository
+  
   HTTPS
   ```
   https://github.com/luviasyiva/Sistem-Uang-Kas.git
