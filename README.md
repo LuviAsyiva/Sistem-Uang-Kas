@@ -8,6 +8,12 @@ berikut beberapa hal yang perlu diinstall:
 - MySQL ^12
 - XAMPP (https://www.apachefriends.org)
 
+# Langkah-langkah
+- clone repository
+
+  HTTPS
+  
+
 # Flowchart
 ![flowchart sistem uang kas](https://github.com/luviasyiva/sistem-uang-kas/assets/152132256/f9150f83-6a45-4efe-bb75-f0f22ffff3ed)
 
@@ -45,4 +51,3 @@ Daftar Administrator
 Logout 
 ![Screenshot (280)](https://github.com/luviasyiva/Sistem-Uang-Kas/assets/152132256/deb75714-54d3-4bb0-ba75-3f9dc6860204)
 
-# langkah-langkah
