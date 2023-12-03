@@ -1,4 +1,4 @@
-# sistem informasi akuntansi
+## Sistem Informasi Akuntansi
 aplikasi pendataan uang kas dibuat dengan Framework Laravel. Dengan sistem pembayaran kas sekali selama seminggu. Aplikasi ini cocok untuk digunakan untuk di sekolah atau masing-masing kelas.
 
 # Prasyarat
@@ -9,11 +9,42 @@ berikut beberapa hal yang perlu diinstall:
 - XAMPP (https://www.apachefriends.org)
 
 # Langkah-langkah
-- clone repository
+- clone repositoryH
+  HTTPS
+  ```
+  https://github.com/luviasyiva/Sistem-Uang-Kas.git
+  ```
+   
+  SSH
+  ```
+   git@github.com:luviasyiva/Sistem-Uang-Kas.git
+  ```
 
-  HTTPS https://github.com/luviasyiva/Sistem-Uang-Kas.git
-
-  SSH 
+- intall seluruh packages yang dibutuhkan
+  ```
+  composer install
+  ```
+- siapkan database dan atur file .env sesuai dengan konfigurasi
+- jika sudah, migrate seluruh migrasi dan seeding data
+  ```
+  php artisan migrate --seed
+  ```
+- generate JWT secret token
+  ```
+  php artisan jwt:secret
+  ```
+- ketik perintah dibawah ini untuk menambah cahche baru dari beberapa konfigurasi yang telah diubah
+  ```
+  php artisan optimaze
+  ```
+- jalankan local server
+  ```
+  php artisan serve
+  ```
+- akses ke halaman
+  ```
+  http://127.0.0.1:8000
+  ```
   
 
 # Flowchart
