@@ -12,7 +12,7 @@ berikut beberapa hal yang perlu diinstall:
 - clone repository
 
   HTTPS
-  https://github.com/luviasyiva/Sistem-Uang-Kas.git
+ git clone ''https://github.com/luviasyiva/Sistem-Uang-Kas.git
 
   SSH
   
