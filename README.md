@@ -63,6 +63,14 @@ berikut beberapa hal yang perlu diinstall:
 # Structure
 ![Screenshot (271)](https://github.com/luviasyiva/sistem-uang-kas/assets/152132256/a0f36344-9cc5-4407-8a33-c5f47345b9d3)
 
+# Fitur 
+- Data Siswa
+- Data Kelas
+- Data Jurusan
+- Data transaksi uang kas
+- Data Administrator
+- Laporan
+
  # Tampilan 
  Login
  ![login apk laravel](https://github.com/luviasyiva/Sistem-Uang-Kas/assets/152132256/66c99ebb-abee-4c32-b655-5d374de57903)
